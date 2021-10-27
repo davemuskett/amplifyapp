@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^1.2.21",
+    "@aws-sdk/client-cloudwatch": "^3.38.0",
     "@aws-sdk/client-cognito-identity": "^3.38.0",
     "@aws-sdk/credential-provider-cognito-identity": "^3.38.0",
     "@aws-sdk/credential-provider-node": "^3.38.0",
