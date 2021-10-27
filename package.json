@@ -5,6 +5,8 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^1.2.21",
     "@aws-sdk/client-cognito-identity": "^3.38.0",
+    "@aws-sdk/credential-provider-cognito-identity": "^3.38.0",
+    "@aws-sdk/credential-provider-node": "^3.38.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
